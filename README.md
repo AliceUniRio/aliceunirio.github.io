@@ -1,9 +1,5 @@
 
-# ARFC Homepage
+# ALICE Homepage
 
-This is the repository that holds the hompage for the Advanced Reactors and 
-Fuel Cycles group.  
+This is the repository that holds the hompage for the ALICE research group.  
 
-## Building This Website
-
-Coming soon... 
